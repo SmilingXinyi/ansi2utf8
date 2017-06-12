@@ -1,2 +1,2 @@
 # ansi2utf8
-File ANSI to UTF-8
+ANSI to UTF-8

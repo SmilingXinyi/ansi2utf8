@@ -99,3 +99,15 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+# JetBrains file
+.idea
+
+# mac
+.DS_Store
+get-pip.py
+
+# resources
+
+*.txt
