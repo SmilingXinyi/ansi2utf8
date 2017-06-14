@@ -2,24 +2,11 @@
 
 ANSI to UTF-8
 
+## Overview
+
+**Installation: pip install ansi2utf8**
+
 **Usage: a2u FILE [NAME]**
-
-----
-
-## Installation
-
-> pip install ansi2utf8
-
-
-
-``` (shell)
-
-a2u file.txt
-
-a2u file.txt ~file.txt
-
-```
-
 
 ## Todo
 
